@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: 70px;
+   background: linear-gradient(to right, purple 30%, blue 100%, lightblue 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn:hover{
+    transform: scale(0.9);
+}
